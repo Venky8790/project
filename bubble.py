@@ -1,4 +1,4 @@
-#### Optimized Bubble sort in Python
+## Optimized Bubble sort in Python
 
 def bubbleSort(array):
     
