@@ -1,4 +1,4 @@
-// C program to implement own strstr() function
+///// C program to implement own strstr() function
 
 #include <stdio.h>
 #include <string.h>
